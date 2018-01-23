@@ -1,0 +1,7 @@
+total 40
+drwxr-xr-x   6 corosteg  2016_paris   204 13 nov 23:33 ./
+drwxr-xr-x  18 corosteg  2016_paris   612 11 nov 18:32 ../
+-rwxr-xr-x   1 corosteg  2016_paris  8860 13 nov 18:27 a.out*
+-rw-r--r--   1 corosteg  2016_paris     0 13 nov 23:39 fichier.txt
+-rw-r--r--   1 corosteg  2016_paris   393 13 nov 23:38 testing.txt
+-rw-r--r--   1 corosteg  2016_paris  1555 13 nov 18:27 testing_pipes.c

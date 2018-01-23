@@ -1,0 +1,48 @@
+total 56$
+-rwxr-xr-x  1 corosteg  2016_paris  8940 22 nov 01:18 a.out$
+-rw-r--r--  1 corosteg  2016_paris   393 21 nov 16:32 fichier.txt$
+-rw-r--r--  1 corosteg  2016_paris     0 23 nov 18:11 fichiertest.txt$
+-rw-r--r--  1 corosteg  2016_paris     0 21 nov 16:37 j$
+-rw-r--r--  1 corosteg  2016_paris  2002 22 nov 01:18 test.c$
+-rw-r--r--  1 corosteg  2016_paris   393 21 nov 16:32 testing.txt$
+-rw-r--r--  1 corosteg  2016_paris  2003 21 nov 16:58 testing_pipes.c$
+total 64$
+drwxr-xr-x   9 corosteg  2016_paris   306 23 nov 18:10 ./$
+drwxr-xr-x  24 corosteg  2016_paris   816 23 nov 18:07 ../$
+-rwxr-xr-x   1 corosteg  2016_paris  8940 22 nov 01:18 a.out*$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 fichier.txt$
+-rw-r--r--   1 corosteg  2016_paris   466 23 nov 18:11 fichiertest.txt$
+-rw-r--r--   1 corosteg  2016_paris     0 21 nov 16:37 j$
+-rw-r--r--   1 corosteg  2016_paris  2002 22 nov 01:18 test.c$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 testing.txt$
+-rw-r--r--   1 corosteg  2016_paris  2003 21 nov 16:58 testing_pipes.c$
+total 64$
+drwxr-xr-x   9 corosteg  2016_paris   306 23 nov 18:10 ./$
+drwxr-xr-x  24 corosteg  2016_paris   816 23 nov 18:07 ../$
+-rwxr-xr-x   1 corosteg  2016_paris  8940 22 nov 01:18 a.out*$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 fichier.txt$
+-rw-r--r--   1 corosteg  2016_paris  1059 23 nov 18:11 fichiertest.txt$
+-rw-r--r--   1 corosteg  2016_paris     0 21 nov 16:37 j$
+-rw-r--r--   1 corosteg  2016_paris  2002 22 nov 01:18 test.c$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 testing.txt$
+-rw-r--r--   1 corosteg  2016_paris  2003 21 nov 16:58 testing_pipes.c$
+total 64$
+drwxr-xr-x   9 corosteg  2016_paris   306 23 nov 18:10 ./$
+drwxr-xr-x  24 corosteg  2016_paris   816 23 nov 18:07 ../$
+-rwxr-xr-x   1 corosteg  2016_paris  8940 22 nov 01:18 a.out*$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 fichier.txt$
+-rw-r--r--   1 corosteg  2016_paris  1652 23 nov 18:11 fichiertest.txt$
+-rw-r--r--   1 corosteg  2016_paris     0 21 nov 16:37 j$
+-rw-r--r--   1 corosteg  2016_paris  2002 22 nov 01:18 test.c$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 testing.txt$
+-rw-r--r--   1 corosteg  2016_paris  2003 21 nov 16:58 testing_pipes.c$
+total 64$
+drwxr-xr-x   9 corosteg  2016_paris   306 23 nov 18:10 ./$
+drwxr-xr-x  24 corosteg  2016_paris   816 23 nov 18:07 ../$
+-rwxr-xr-x   1 corosteg  2016_paris  8940 22 nov 01:18 a.out*$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 fichier.txt$
+-rw-r--r--   1 corosteg  2016_paris  2245 23 nov 18:11 fichiertest.txt$
+-rw-r--r--   1 corosteg  2016_paris     0 21 nov 16:37 j$
+-rw-r--r--   1 corosteg  2016_paris  2002 22 nov 01:18 test.c$
+-rw-r--r--   1 corosteg  2016_paris   393 21 nov 16:32 testing.txt$
+-rw-r--r--   1 corosteg  2016_paris  2003 21 nov 16:58 testing_pipes.c$
